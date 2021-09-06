@@ -1,0 +1,9 @@
+#+TITLE: 1660 Data Mining
+
+** Abstandsmasse
+*** Levenshtein - Distanz (edit distance)
+*** Kosinus - Aehnichkeit
+*** Dynamic Time Warping
+EA1 Aufgabe 4
+*** Sonstige Aufgaben
+EA1 Aufgabe 5
