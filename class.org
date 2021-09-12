@@ -1,5 +1,5 @@
 #+TITLE: 1660 Data Mining
-
+* Datencharakteresierung
 ** Abstandsmasse
 *** Levenshtein - Distanz (edit distance)
 *** Kosinus - Aehnichkeit
@@ -7,3 +7,13 @@
 EA1 Aufgabe 4
 *** Sonstige Aufgaben
 EA1 Aufgabe 5
+* Vorverarbeitung
+* Mustersuche
+* Klassifikation
+* Clusteranalyse
+* Analyse komplexer Strukturen
+* Beispiele und Anwendungen in Weka
+** Übersicht und Klassifikation
+** Clusteranalyse
+** Mustersuche
+** Weitere Komponenten
